@@ -1,0 +1,14 @@
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\bin\Debug\Tekstiseikkailu.exe.config
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\bin\Debug\Tekstiseikkailu.exe
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\bin\Debug\Tekstiseikkailu.pdb
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.csprojAssemblyReference.cache
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.csproj.CoreCompileInputs.cache
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.exe
+C:\Users\s3raka01\OneDrive - OSAO\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.pdb
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\bin\Debug\Tekstiseikkailu.exe.config
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\bin\Debug\Tekstiseikkailu.exe
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\bin\Debug\Tekstiseikkailu.pdb
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.csprojAssemblyReference.cache
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.csproj.CoreCompileInputs.cache
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.exe
+C:\Users\s3raka01\OneDrive - OSAO\Asiakaspalvelu ja työnhaku\C# ohjelmointi\Tekstiseikkailu\Tekstiseikkailu\obj\Debug\Tekstiseikkailu.pdb
